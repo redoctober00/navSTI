@@ -1,0 +1,3078 @@
+[
+  {
+    "floor": 1,
+    "roomID": "admissions",
+    "roomName": "Admissions Office",
+    "description": "This is the admissions office"
+  },
+  {
+    "floor": 1,
+    "roomID": "registrar",
+    "roomName": "Registrar",
+    "description": "This is the registrar"
+  },
+  {
+    "floor": 1,
+    "roomID": "discipline",
+    "roomName": "Discipline Office"
+  },
+  {
+    "floor": 1,
+    "roomID": "sao",
+    "roomName": "Student Affairs Office"
+  },
+  {
+    "floor": 1,
+    "roomID": "cashier",
+    "roomName": "Cashier",
+    "description": " "
+  },
+  {
+    "floor": 1,
+    "roomID": "proware",
+    "roomName": "Purchasing and Asset Management Office",
+    "description": " "
+  },
+  {
+    "floor": 1,
+    "roomID": "guidance",
+    "roomName": "Guidance"
+  },
+  {
+    "floor": 1,
+    "roomID": "lab-a",
+    "roomName": "Computer Laboratory A",
+    "schedules": {
+      "mon": [
+        {
+          "time": "8:00-10:00 AM",
+          "subject": "P&Q TOOLS",
+          "section": "BA201A",
+          "instructor": "ONIA"
+        },
+        {
+          "time": "10:00-12:00 PM",
+          "subject": "SYSADMN",
+          "section": "BT202A",
+          "instructor": "ALBARAN"
+        },
+        {
+          "time": "2:30-5:00 PM",
+          "subject": "EMP TECH",
+          "section": "CA/TO401",
+          "instructor": ""
+        }
+      ],
+      "tue": [
+        {
+          "time": "7:00-10:00 AM",
+          "subject": "OOP",
+          "section": "BE201A",
+          "instructor": "SALDE"
+        },
+        {
+          "time": "10:00-12:00 PM",
+          "subject": "SYNTINARC",
+          "section": "BT402A",
+          "instructor": "LUBIAN"
+        },
+        {
+          "time": "2:30-4:00 PM",
+          "subject": "COM PROD",
+          "section": "BR201A",
+          "instructor": "PAGUNTALAN"
+        }
+      ],
+      "wed": [
+        {
+          "time": "7:00-9:00 AM",
+          "subject": "NETECH 1",
+          "section": "BT403A",
+          "instructor": "ALBARAN"
+        },
+        {
+          "time": "9:00-12:00 PM",
+          "subject": "MOBI APP 2",
+          "section": "ICT401",
+          "instructor": ""
+        },
+        {
+          "time": "12:00-1:00 AM",
+          "subject": "HOMEROOM",
+          "section": "STEM205",
+          "instructor": ""
+        }
+      ],
+      "thu": [
+        {
+          "time": "7:00-10:00 AM",
+          "subject": "PRODQTOOLS",
+          "section": "BA201A",
+          "instructor": "ONIA"
+        },
+        {
+          "time": "10:00-12:00 PM",
+          "subject": "WEBSYST",
+          "section": "BT602P",
+          "instructor": "GALANG"
+        },
+        {
+          "time": "1:00-4:00 PM",
+          "subject": "COMPROD",
+          "section": "BA201A",
+          "instructor": "LUBIAN"
+        }
+      ],
+      "fri": [
+        {
+          "time": "7:00-9:00 AM",
+          "subject": "COMPROG 3",
+          "section": "ICT202",
+          "instructor": "BALDESTAMON"
+        },
+        {
+          "time": "10:00-1:00 PM",
+          "subject": "COMPROG 6",
+          "section": "ICT401",
+          "instructor": "SALDE"
+        },
+        {
+          "time": "1:00-4:00 PM",
+          "subject": "HUCOMP",
+          "section": "BS401A",
+          "instructor": "JALMASCO"
+        },
+        {
+          "time": "4:00-7:00 PM",
+          "subject": "PROG LANG",
+          "section": "BT404A",
+          "instructor": "SOLOMON"
+        }
+      ],
+      "sat": []
+    }
+  },
+  {
+    "floor": 1.5,
+    "roomID": "library",
+    "roomName": "Library"
+  },
+  {
+    "floor": 1.5,
+    "roomID": "deputy",
+    "roomName": "Deputy School Admin"
+  },
+  {
+    "floor": 1.5,
+    "roomID": "communication",
+    "roomName": "Communication"
+  },
+
+  {
+    "floor": 2,
+    "roomID": "201",
+    "roomName": "A201",
+    "schedules": {
+      "mon": [
+        {
+          "time": "7:00-8:30 AM",
+          "subject": "R_AND_W",
+          "section": "ABM201",
+          "instructor": "CABILES"
+        },
+        {
+          "time": "8:30-10:00 AM",
+          "subject": "STAT&PROB",
+          "section": "ABM201",
+          "instructor": "LIMAN"
+        },
+        {
+          "time": "10:00-11:30 AM",
+          "subject": "UCSP",
+          "section": "ABM201",
+          "instructor": "SARTE"
+        },
+        {
+          "time": "11:30 AM - 1:00 PM",
+          "subject": "EARTH AND LIFE",
+          "section": "ABM201",
+          "instructor": "SANTIAGO"
+        },
+        {
+          "time": "1:00-2:30 PM",
+          "subject": "EMTECH",
+          "section": "ABM201",
+          "instructor": ""
+        },
+        {
+          "time": "2:30-4:00 PM",
+          "subject": "CONTEMPT",
+          "section": "ABM401",
+          "instructor": "ACHAY"
+        },
+        {
+          "time": "4:00-5:30 PM",
+          "subject": "ACHAY",
+          "section": "ABM401",
+          "instructor": "BALBALOSA"
+        }
+      ],
+      "tue": [
+        {
+          "time": "7:00-8:30 AM",
+          "subject": "PRIN_MARKET",
+          "section": "ABM201",
+          "instructor": "CREER"
+        },
+        {
+          "time": "8:30-10:00 AM",
+          "subject": "KOM",
+          "section": "ABM201",
+          "instructor": "VICTORIA"
+        },
+        {
+          "time": "10:00-11:30 AM",
+          "subject": "PR 1",
+          "section": "ABM201",
+          "instructor": "CAANDOY"
+        },
+        {
+          "time": "11:30 AM - 1:00 PM",
+          "subject": "FABM 1",
+          "section": "ABM201",
+          "instructor": "CAANDOY"
+        },
+        {
+          "time": "1:00-2:30 PM",
+          "subject": "BUSS ETHICS",
+          "section": "ABM401",
+          "instructor": "ICAMEN"
+        },
+        {
+          "time": "2:30-4:00 PM",
+          "subject": "APPLIED ECO",
+          "section": "ABM401",
+          "instructor": "CREER"
+        },
+        {
+          "time": "4:00-5:30 PM",
+          "subject": "WORK IM",
+          "section": "STEM403",
+          "instructor": "VIROS"
+        }
+      ],
+      "wed": [
+        {
+          "time": "7:00-8:30 AM",
+          "subject": "PR 1",
+          "section": "ABM202",
+          "instructor": "CAANDOY"
+        },
+        {
+          "time": "8:30-10:00 AM",
+          "subject": "FABM 1",
+          "section": "ABM202",
+          "instructor": "ICAMEN"
+        },
+        {
+          "time": "10:00-11:30 AM",
+          "subject": "PRIN_MARKET",
+          "section": "ABM202",
+          "instructor": "CREER"
+        },
+        {
+          "time": "11:30 AM - 1:00 PM",
+          "subject": "KOM",
+          "section": "ABM202",
+          "instructor": "VICTORIA"
+        },
+        {
+          "time": "1:00-2:30 PM",
+          "subject": "ENTREP",
+          "section": "STEM402",
+          "instructor": "PAZ"
+        },
+        {
+          "time": "2:30-4:00 PM",
+          "subject": "INQUIRIES",
+          "section": "STEM402",
+          "instructor": "BALBALOSA"
+        },
+        {
+          "time": "4:00-5:30 PM",
+          "subject": "EM TECH",
+          "section": "STEM4402",
+          "instructor": "BALDESTAMON"
+        }
+      ],
+      "thu": [
+        {
+          "time": "7:00-8:30 AM",
+          "subject": "R_AND_W",
+          "section": "ABM201",
+          "instructor": "CABILES"
+        },
+        {
+          "time": "8:30-10:00 AM",
+          "subject": "STAT&PROB",
+          "section": "ABM201",
+          "instructor": "LIMAN"
+        },
+        {
+          "time": "10:00-11:30 AM",
+          "subject": "UCSP",
+          "section": "ABM201",
+          "instructor": "SARTE"
+        },
+        {
+          "time": "11:30 AM - 1:00 PM",
+          "subject": "EARTH AND LIFE",
+          "section": "ABM201",
+          "instructor": "SANTIAGO"
+        },
+        {
+          "time": "1:00-2:30 PM",
+          "subject": "EMTECH",
+          "section": "ABM401",
+          "instructor": ""
+        },
+        {
+          "time": "2:30-4:00 PM",
+          "subject": "CON_ARTS",
+          "section": "ABM401",
+          "instructor": "ACHAY"
+        },
+        {
+          "time": "4:00-5:30PM",
+          "subject": "INQUIRIES",
+          "section": "ABM401",
+          "instructor": "BALBALOSA"
+        }
+      ],
+      "fri": [
+        {
+          "time": "7:00-8:30 AM",
+          "subject": "PRIN_MARKET",
+          "section": "ABM201",
+          "instructor": "CREER"
+        },
+        {
+          "time": "8:30-10:00 AM",
+          "subject": "KOM",
+          "section": "ABM201",
+          "instructor": "VICTORIA"
+        },
+        {
+          "time": "10:00-11:30 AM",
+          "subject": "PR 1",
+          "section": "ABM201",
+          "instructor": "CAANDOY"
+        },
+        {
+          "time": "11:30 AM - 1:00 PM",
+          "subject": "FABM 1",
+          "section": "ABM201",
+          "instructor": "ICAMEN"
+        },
+        {
+          "time": "1:00-2:30 PM",
+          "subject": "BUSS ETHICS",
+          "section": "ABM401",
+          "instructor": "CREER"
+        },
+        {
+          "time": "2:30-4:00 PM",
+          "subject": "APPLIED ECO",
+          "section": "ABM401",
+          "instructor": "CREER"
+        },
+        {
+          "time": "4:00-5:30 PM",
+          "subject": "WORK IM",
+          "section": "ABM401",
+          "instructor": "VIROS"
+        }
+      ],
+      "sat": [
+        {
+          "time": "7:00-8:30 AM",
+          "subject": "PR 1",
+          "section": "ABM202",
+          "instructor": "CAANDOY"
+        },
+        {
+          "time": "8:30-10:00 AM",
+          "subject": "FABM 1",
+          "section": "ABM202",
+          "instructor": "ICAMEN"
+        },
+        {
+          "time": "10:00-11:30 AM",
+          "subject": "PRIN_MARKET",
+          "section": "ABM202",
+          "instructor": "CREER"
+        },
+        {
+          "time": "11:30 AM - 1:00 PM",
+          "subject": "KOM",
+          "section": "ABM202",
+          "instructor": "VICTORIA"
+        },
+        {
+          "time": "1:00-2:30 PM",
+          "subject": "ENTREP",
+          "section": "STEM402",
+          "instructor": "PAZ"
+        },
+        {
+          "time": "2:30-4:00 PM",
+          "subject": "INQUIRIES",
+          "section": "STEM402",
+          "instructor": "BALBALOSA"
+        },
+        {
+          "time": "4:00-5:30 PM",
+          "subject": "EM TECH",
+          "section": "STEM403",
+          "instructor": "BALDESTAMON"
+        }
+      ]
+    }
+  },
+  {
+    "floor": 2,
+    "roomID": "202",
+    "roomName": "A202",
+    "schedules": {
+      "mon": [
+        {
+          "subject": "GEN BIO 2",
+          "section": "STEM201",
+          "instructor": "SANTIAGO",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "R_AND_W",
+          "section": "STEM201",
+          "instructor": "CABILES",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "EARTH SCI",
+          "section": "STEM201",
+          "instructor": "SANTILLAN",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "UCSP",
+          "section": "STEM201",
+          "instructor": "ACHAY",
+          "time": "11:30 AM - 12:30 PM"
+        },
+        {
+          "subject": "INQUIRIES",
+          "section": "STEM401",
+          "instructor": "BALBALOSA",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "GEN CHEM 2",
+          "section": "STEM401",
+          "instructor": "SANTIAGO",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "EM TECH",
+          "section": "STEM401",
+          "instructor": "BALDESTAMON",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "tue": [
+        {
+          "subject": "R_AND_W",
+          "section": "ABM202",
+          "instructor": "CABILES",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "STAT&PROB",
+          "section": "ABM202",
+          "instructor": "MALAZARTE",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "UCSP",
+          "section": "ABM202",
+          "instructor": "GARCIA",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "EARTH SCI",
+          "section": "ABM202",
+          "instructor": "SANTIAGO",
+          "time": "11:30 AM - 1:00 PM"
+        },
+        {
+          "subject": "GEN PHY 2",
+          "section": "STEM401",
+          "instructor": "SANTILLAN",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "CON_ARTS",
+          "section": "STEM401",
+          "instructor": "SANTILLAN",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "ENTREP",
+          "section": "STEM401",
+          "instructor": "GODINEZ",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "wed": [
+        {
+          "subject": "KOM",
+          "section": "STEM202",
+          "instructor": "VICTORIA",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "EARTH SCI",
+          "section": "STEM202",
+          "instructor": "ARCILLA",
+          "time": "8:30-10:30 AM"
+        },
+        {
+          "subject": "PR 1",
+          "section": "STEM202",
+          "instructor": "CAANDOY",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "STAT&PROB",
+          "section": "STEM202",
+          "instructor": "CAANDOY",
+          "time": "11:30-1:00 AM"
+        },
+        {
+          "subject": "EM TECH",
+          "section": "STEM403",
+          "instructor": "BALDESTAMON",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "ENTREP",
+          "section": "STEM403",
+          "instructor": "PAZ",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "INQUIRIES",
+          "section": "STEM403",
+          "instructor": "BALBALOSA",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "thu": [
+        {
+          "subject": "GEN BIO 2",
+          "section": "STEM201",
+          "instructor": "SANTIAGO",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "R_AND_W",
+          "section": "STEM201",
+          "instructor": "CABILES",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "EARTH SCI",
+          "section": "STEM201",
+          "instructor": "SANTILLAN",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "UCSP",
+          "section": "STEM201",
+          "instructor": "ACHAY",
+          "time": "11:30 AM - 1:00 PM"
+        },
+        {
+          "subject": "INQUIRIES",
+          "section": "STEM401",
+          "instructor": "BALBALOSA",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "GEN CHEM 2",
+          "section": "STEM401",
+          "instructor": "SANTIAGO",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "EM TECH",
+          "section": "STEM401",
+          "instructor": "BALDESTAMON",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "fri": [
+        {
+          "subject": "R_AND_W",
+          "section": "ABM202",
+          "instructor": "CABILES",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "STAT&PROB",
+          "section": "ABM202",
+          "instructor": "MALAZARTE",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "UCSP",
+          "section": "ABM202",
+          "instructor": "GARCIA",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "EARTH SCI",
+          "section": "ABM202",
+          "instructor": "SANTIAGO",
+          "time": "11:30 AM - 1:00 PM"
+        },
+        {
+          "subject": "GEN PHY 2",
+          "section": "STEM401",
+          "instructor": "SANTILLAN",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "CON_ARTS",
+          "section": "STEM401",
+          "instructor": "ACHAY",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "ENTREP",
+          "section": "STEM401",
+          "instructor": "ACHAY",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "sat": [
+        {
+          "subject": "KOM",
+          "section": "STEM202",
+          "instructor": "VICTORIA",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "EARTH SCI",
+          "section": "STEM202",
+          "instructor": "ARCILLA",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "STAT&PROB",
+          "section": "STEM202",
+          "instructor": "CAANDOY",
+          "time": "10:00 AM - 1:00 PM"
+        },
+        {
+          "subject": "EM TECH",
+          "section": "STEM403",
+          "instructor": "BALDESTAMON",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "ENTREP",
+          "section": "STEM403",
+          "instructor": "PAZ",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "INQUIRIES",
+          "section": "STEM403",
+          "instructor": "BALBALOSA",
+          "time": "4:00-5:30 PM"
+        }
+      ]
+    }
+  },
+  {
+    "floor": 2,
+    "roomID": "203",
+    "roomName": "A203",
+    "schedules": {
+      "mon": [
+        {
+          "subject": "UCSP",
+          "section": "STEM202",
+          "instructor": "ACHAY",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "GEN BIO 2",
+          "section": "STEM202",
+          "instructor": "SANTIAGO",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "R_AND_W",
+          "section": "STEM202",
+          "instructor": "CABILES",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "BASIC CALCU",
+          "section": "STEM202",
+          "instructor": "LIMAN",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "CON_ARTS",
+          "section": "STEM403",
+          "instructor": "SARTE",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "GEN PHY 2",
+          "section": "STEM403",
+          "instructor": "SANTILLAN",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "GEN CHEM 2",
+          "section": "STEM403",
+          "instructor": "SANTIAGO",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "tue": [
+        {
+          "subject": "KOM",
+          "section": "STEM201",
+          "instructor": "VICTORIA",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "PR 1",
+          "section": "STEM201",
+          "instructor": "CAANDOY",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "STAT &PROB",
+          "section": "STEM201",
+          "instructor": "LIMAN",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "BASIC CALCU",
+          "section": "STEM201",
+          "instructor": "LIMAN",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "CON ARTS",
+          "section": "STEM402",
+          "instructor": "SARTE",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "GEN PHY 2",
+          "section": "STEM402",
+          "instructor": "SANTILLAN",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "GEN CHEM 2",
+          "section": "STEM402",
+          "instructor": "SANTIAGO",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "wed": [
+        {
+          "subject": "EARTH SCI",
+          "section": "STEM203",
+          "instructor": "ARCILLA",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "PR 1",
+          "section": "STEM203",
+          "instructor": "CAANDOY",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "KOM",
+          "section": "STEM203",
+          "instructor": "VICTORIA",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "GEN BIO 2",
+          "section": "STEM203",
+          "instructor": "ARCILLA",
+          "time": "11:30-1:00 PM"
+        }
+      ],
+      "thu": [
+        {
+          "subject": "UCSP",
+          "section": "STEM202",
+          "instructor": "ACHAY",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "GEN BIO 2",
+          "section": "STEM202",
+          "instructor": "SANTIAGO",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "R_AND_W",
+          "section": "STEM202",
+          "instructor": "CABILES",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "BASIC CALCU",
+          "section": "STEM202",
+          "instructor": "LIMAN",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "CONTEMPT",
+          "section": "STEM403",
+          "instructor": "SARTE",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "GEN PHY 2",
+          "section": "STEM403",
+          "instructor": "SANTILLAN",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "GEN CHEM 2",
+          "section": "STEM403",
+          "instructor": "SANTIAGO",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "fri": [
+        {
+          "subject": "KOM",
+          "section": "STEM201",
+          "instructor": "VICTORIA",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "PR 1",
+          "section": "STEM201",
+          "instructor": "CAANDOY",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "STAT &PROB",
+          "section": "STEM201",
+          "instructor": "LIMAN",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "BASIC CALCU",
+          "section": "STEM201",
+          "instructor": "LIMAN",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "CON_ARTS",
+          "section": "STEM402",
+          "instructor": "SARTE",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "GEN PHY 2",
+          "section": "STEM402",
+          "instructor": "SANTILLAN",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "GEN CHEM 2",
+          "section": "STEM402",
+          "instructor": "SANTIAGO",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "sat": [
+        {
+          "subject": "EARTH SCI",
+          "section": "STEM203",
+          "instructor": "ARCILLA",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "PR 1",
+          "section": "STEM203",
+          "instructor": "CAANDOY",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "OMUNIKASYON",
+          "section": "STEM203",
+          "instructor": "VICTORIA",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "GEN BIO 2",
+          "section": "STEM203",
+          "instructor": "ARCILLA",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "CON ARTS",
+          "section": "CA /TO401",
+          "instructor": "GARCIA",
+          "time": "1:00-2:30 PM"
+        }
+      ]
+    }
+  },
+  {
+    "floor": 2,
+    "roomID": "204",
+    "roomName": "A204",
+    "schedules": {
+      "mon": [
+        {
+          "subject": "STAT&PROB",
+          "section": "STEM204",
+          "instructor": "LIMAN",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "UCSP",
+          "section": "STEM204",
+          "instructor": "ACHAY",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "BASIC CALCU",
+          "section": "STEM204",
+          "instructor": "LIMAN",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "EARTH SCI",
+          "section": "STEM204",
+          "instructor": "SANTILLAN",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "EM TECH",
+          "section": "HUMS401",
+          "instructor": "BALDESTAMON",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "INQUIRIES",
+          "section": "HUMS401",
+          "instructor": "BALBALOSA",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "CON ARTS",
+          "section": "HUMS401",
+          "instructor": "SARTE",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "tue": [
+        {
+          "subject": "BASIC CALCU",
+          "section": "STEM203",
+          "instructor": "LIMAN",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "R_AND_W",
+          "section": "STEM203",
+          "instructor": "CABILES",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "STAT&PROB",
+          "section": "STEM203",
+          "instructor": "MALAZARTE",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "UCSP",
+          "section": "STEM203",
+          "instructor": "ACHAY",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "ENTREP",
+          "section": "HUMS401",
+          "instructor": "GODINEZ",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "TRENDS",
+          "section": "HUMS401",
+          "instructor": "SARTE",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "COM_ENGAGE",
+          "section": "HUMS401",
+          "instructor": "ACHAY",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "wed": [
+        {
+          "subject": "STAT&PROB",
+          "section": "ICT201",
+          "instructor": "MALAZARTE",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "KOM",
+          "section": "ICT201",
+          "instructor": "VICTORIA",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "GEN BIO 2",
+          "section": "ICT201",
+          "instructor": "ARCILLA",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "PR 1",
+          "section": "ICT201",
+          "instructor": "CAANDOY",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "CON_ARTS",
+          "section": "TO401",
+          "instructor": "GARCIA",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "HOMEROOM",
+          "section": "STEM203",
+          "instructor": "GARCIA",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "WORK IMMERSION",
+          "section": "TO401",
+          "instructor": "SARTE",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "thu": [
+        {
+          "subject": "STAT&PROB",
+          "section": "STEM204",
+          "instructor": "LIMAN",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "UCSP",
+          "section": "STEM204",
+          "instructor": "ACHAY",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "BASIC CALCU",
+          "section": "STEM204",
+          "instructor": "LIMAN",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "EARTH SCI",
+          "section": "STEM204",
+          "instructor": "SANTILLAN",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "EM TECH",
+          "section": "HUMS401",
+          "instructor": "BALDESTAMON",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "INQUIRIES",
+          "section": "HUMS401",
+          "instructor": "BALBALOSA",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "CON_ARTS",
+          "section": "HUMS401",
+          "instructor": "SARTE",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "fri": [
+        {
+          "subject": "BASIC CALCU",
+          "section": "STEM203",
+          "instructor": "LIMAN",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "R_AND_W",
+          "section": "STEM203",
+          "instructor": "CABILES",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "STAT&PROB",
+          "section": "STEM203",
+          "instructor": "MALAZARTE",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "UCSP",
+          "section": "STEM203",
+          "instructor": "ACHAY",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "ENTREP",
+          "section": "HUMS401",
+          "instructor": "GODINEZ",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "TRENDS",
+          "section": "HUMS401",
+          "instructor": "SARTE",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "COM_ENGAGE",
+          "section": "HUMS401",
+          "instructor": "ACHAY",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "sat": [
+        {
+          "subject": "STAT&PROB",
+          "section": "ICT2021",
+          "instructor": "MALAZARTE",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "COMUNIKASYON",
+          "section": "STEM204",
+          "instructor": "VICTORIA",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "GEN BIO 2",
+          "section": "STEM204",
+          "instructor": "ARCILLA",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "PR 1",
+          "section": "STEM204",
+          "instructor": "CAANDOY",
+          "time": "11:30-1:00 PM"
+        }
+      ]
+    }
+  },
+  {
+    "floor": 2,
+    "roomID": "205",
+    "roomName": "A205",
+    "schedules": {
+      "mon": [
+        {
+          "subject": "UCSP",
+          "section": "STEM205",
+          "instructor": "SARTE",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "KOM",
+          "section": "STEM205",
+          "instructor": "CUYA",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "GEN BIO 2",
+          "section": "STEM205",
+          "instructor": "ARCILLA",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "EARTH SCI",
+          "section": "STEM205",
+          "instructor": "ARCILLA",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "ENTREP",
+          "section": "ICT401",
+          "instructor": "GODINEZ",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "EM TECH",
+          "section": "ICT401",
+          "instructor": "BALDESTAMON",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "WORK IM",
+          "section": "ICT401",
+          "instructor": "GARCIA",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "tue": [
+        {
+          "subject": "STAT&PROB",
+          "section": "STEM205",
+          "instructor": "MALAZARTE",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "BASIC CALCU",
+          "section": "STEM205",
+          "instructor": "LIMAN",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "R_AND_W",
+          "section": "STEM205",
+          "instructor": "CABILES",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "PR 1",
+          "section": "STEM205",
+          "instructor": "CAANDOY",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "EARTH SCI",
+          "section": "CA201",
+          "instructor": "SANTIAGO",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "CON_ARTS",
+          "section": "ICT401",
+          "instructor": "GARCIA",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "INQUIRIES",
+          "section": "ICT401",
+          "instructor": "CABILES",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "wed": [
+        {
+          "subject": "PR 1",
+          "section": "HUMS201",
+          "instructor": "RIVERA",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "UCSP",
+          "section": "HUMS201",
+          "instructor": "GARCIA",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "STAT&PROB",
+          "section": "HUMS201",
+          "instructor": "MALAZARTE",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "CRE_WRITING",
+          "section": "HUMS201",
+          "instructor": "BALBALOSA",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "TOUR PLAN",
+          "section": "BR402A",
+          "instructor": "MACAPANAS",
+          "time": "1:00-3:00 PM"
+        },
+        {
+          "subject": "CPE PRAC",
+          "section": "BE801P",
+          "instructor": "PAGUNTALAN",
+          "time": "3:00-5:00 PM"
+        }
+      ],
+      "thu": [
+        {
+          "subject": "UCSP",
+          "section": "STEM205",
+          "instructor": "SARTE",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "KOMUNIKASYON",
+          "section": "STEM205",
+          "instructor": "CUYA",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "GEN BIO 2",
+          "section": "STEM205",
+          "instructor": "ARCILLA",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "EARTH SCI",
+          "section": "STEM205",
+          "instructor": "ARCILLA",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "ENTREP",
+          "section": "ICT401",
+          "instructor": "GODINEZ",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "EM TECH",
+          "section": "ICT401",
+          "instructor": "BALDESTAMON",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "WORK IM",
+          "section": "ICT401",
+          "instructor": "GARCIA",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "fri": [
+        {
+          "subject": "STAT&PROB",
+          "section": "STEM205",
+          "instructor": "MALAZARTE",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "BASIC CALCU",
+          "section": "STEM205",
+          "instructor": "LIMAN",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "R_AND_W",
+          "section": "STEM205",
+          "instructor": "CABILES",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "PR 1",
+          "section": "STEM205",
+          "instructor": "CAANDOY",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "EARTH SCI",
+          "section": "CA201",
+          "instructor": "SANTIAGO",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "CON ARTS",
+          "section": "ICT401",
+          "instructor": "GARCIA",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "INQUIRIES",
+          "section": "ICT401",
+          "instructor": "CABILES",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "sat": [
+        {
+          "subject": "PR 1",
+          "section": "HUMS201",
+          "instructor": "RIVERA",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "UCSP",
+          "section": "HUMS201",
+          "instructor": "GARCIA",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "STAT&PROB",
+          "section": "HUMS201",
+          "instructor": "MALAZARTE",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "CRE_WRITING",
+          "section": "HUMS201",
+          "instructor": "BALBALOSA",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "HOMEROOM",
+          "section": "STEM202",
+          "instructor": "",
+          "time": "1:00-2:00 PM"
+        }
+      ]
+    }
+  },
+  {
+    "floor": 2,
+    "roomID": "206",
+    "roomName": "A206",
+    "schedules": {
+      "mon": [
+        {
+          "subject": "KOM",
+          "section": "ICT201",
+          "instructor": "CUYA",
+          "time": "7:00-9:00 AM"
+        },
+        {
+          "subject": "UCSP",
+          "section": "ICT201",
+          "instructor": "SARTE",
+          "time": "9:00-10:30 AM"
+        },
+        {
+          "subject": "EARTH SCI",
+          "section": "ICT201",
+          "instructor": "SANTIAGO",
+          "time": "10:30-11:30PM"
+        },
+        {
+          "subject": "HOMEROOM",
+          "section": "HUMSS401",
+          "instructor": "",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "KOM",
+          "section": "HUMSS202",
+          "instructor": "VICTORIA",
+          "time": "1:00-4:00 PM"
+        },
+        {
+          "subject": "W_4NMEDIA",
+          "section": "AB601P",
+          "instructor": "LAGDAMEO",
+          "time": "4:00-5:00 PM"
+        }
+      ],
+      "tue": [
+        {
+          "subject": "EARTH SCI",
+          "section": "HUMS201",
+          "instructor": "SANTIAGO",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "DIASS",
+          "section": "HUMS201",
+          "instructor": "SARTE",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "R_AND_W",
+          "section": "HUMS201",
+          "instructor": "CABILES",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "INQUIRIES",
+          "section": "CA/TO401",
+          "instructor": "CARNIYAN",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "TOUR_INFO",
+          "section": "TO401",
+          "instructor": "MACAPANAS",
+          "time": "2:30-5:30 PM"
+        }
+      ],
+      "wed": [
+        {
+          "subject": "R_AND_W",
+          "section": "ICT201",
+          "instructor": "BALBALOSA",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "UCSP",
+          "section": "HUMSS202",
+          "instructor": "GARCIA",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "STAT&PROB",
+          "section": "HUMSS202",
+          "instructor": "MALAZARTE",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "GREATBOOKS",
+          "section": "BT602P",
+          "instructor": "MENDOZA",
+          "time": "1:30-4:30 PM"
+        },
+        {
+          "subject": "CATERING",
+          "section": "BH601P",
+          "instructor": "ESTENZO",
+          "time": "4:30-6:30 PM"
+        }
+      ],
+      "thu": [
+        {
+          "subject": "KOM",
+          "section": "ICT201",
+          "instructor": "CUYA",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "UCSP",
+          "section": "ICT201",
+          "instructor": "GARCIA",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "EARTH SCI",
+          "section": "ICT201",
+          "instructor": "SANTIAGO",
+          "time": "10:00-11:30 PM"
+        },
+        {
+          "subject": "HOMEROOM",
+          "section": "HUMS202",
+          "instructor": "",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "GREATBOOKS",
+          "section": "BS401A",
+          "instructor": "",
+          "time": "1:00-2:00 PM"
+        },
+        {
+          "subject": "WRITING FOR NEW MEDIA",
+          "section": "AB601P",
+          "instructor": "",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "fri": [
+        {
+          "subject": "EARTH SCI",
+          "section": "HUMS201",
+          "instructor": "SANTIAGO",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "DIASS",
+          "section": "HUMS201",
+          "instructor": "SARTE",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "R_AND_W",
+          "section": "HUMS201",
+          "instructor": "CABILES",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "INQUIRIES",
+          "section": "CA/TO401",
+          "instructor": "CARNIYAN",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "INTERNET AND E-TRAVEL",
+          "section": "TO401",
+          "instructor": "MACAPANAS",
+          "time": "2:30-5:30 PM"
+        }
+      ],
+      "sat": [
+        {
+          "subject": "R_AND_W",
+          "section": "ICT201",
+          "instructor": "BALBALOSA",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "UCSP",
+          "section": "HUMSS202",
+          "instructor": "GARCIA",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "STAT&PROB",
+          "section": "HUMSS202",
+          "instructor": "MALAZARTE",
+          "time": "11:30-1:00 PM"
+        }
+      ]
+    }
+  },
+  {
+    "floor": 3,
+    "roomID": "301",
+    "roomName": "Computer Laboratory B",
+    "schedules": {
+      "mon": [
+        {
+          "subject": "SYSADMN",
+          "section": "BT204A",
+          "instructor": "ALBARAN",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "MOBILE APP 1",
+          "section": "ICT202",
+          "instructor": "BASLDESTAMON",
+          "time": "10:00-1:00 PM"
+        },
+        {
+          "subject": "INTEG PROG",
+          "section": "BT403A",
+          "instructor": "SOLOMON",
+          "time": "1:00-4:00 PM"
+        }
+      ],
+      "tue": [
+        {
+          "subject": "SYSADMN",
+          "section": "BT201A",
+          "instructor": "ALBARAN",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "PROG LANG",
+          "section": "BS601P",
+          "instructor": "SALDE",
+          "time": "10:00-1:00 PM"
+        },
+        {
+          "subject": "INTEG PROG",
+          "section": "BT404A",
+          "instructor": "SOLOMON",
+          "time": "1:00-4:00 PM"
+        }
+      ],
+      "wed": [
+        {
+          "subject": "INTROHDL",
+          "section": "BE601P",
+          "instructor": "PAGUNTALAN",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "INFOASS&SEC",
+          "section": "BT602P",
+          "instructor": "JALMASCO",
+          "time": "10:00-1:00 PM"
+        },
+        {
+          "subject": "NETECH 1",
+          "section": "BT401A",
+          "instructor": "ALBARAN",
+          "time": "1:00-4:00 PM"
+        }
+      ],
+      "thu": [
+        {
+          "subject": "SYSADMN",
+          "section": "BT202A",
+          "instructor": "ALBARAN",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "COMPROG2",
+          "section": "BT202A",
+          "instructor": "BALETE",
+          "time": "10:00-12:00 AM"
+        }
+      ],
+      "fri": [
+        {
+          "subject": "SYSADMN",
+          "section": "BT203A",
+          "instructor": "ALBARAN",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "INFO MGMNT",
+          "section": "402A",
+          "instructor": "GALANG",
+          "time": "10:00-12:00 PM"
+        },
+        {
+          "subject": "INTEG PROG",
+          "section": "BT402A",
+          "instructor": "SOLOMON",
+          "time": "1:00-4:00 PM"
+        },
+        {
+          "subject": "INFO ASS SEC",
+          "section": "BT603P",
+          "instructor": "JALMASCO",
+          "time": "4:00-7:00 PM"
+        }
+      ],
+      "sat": []
+    }
+  },
+  {
+    "floor": 3,
+    "roomID": "302",
+    "roomName": "Computer Laboratory C",
+    "schedules": {
+      "mon": [
+        {
+          "subject": "SYSINTARC",
+          "section": "BT401A",
+          "instructor": "LUBIAN",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "MOBSYSTEC",
+          "section": "BT602P",
+          "instructor": "MERIN",
+          "time": "10:00-12:00 PM"
+        },
+        {
+          "subject": "FUNMOBPROG",
+          "section": "BS602P",
+          "instructor": "MERIN",
+          "time": "1:00-4:00 PM"
+        },
+        {
+          "subject": "MOBSYSTEC",
+          "section": "BT601P",
+          "instructor": "MERIN",
+          "time": "4:00-7:00 PM"
+        }
+      ],
+      "tue": [
+        {
+          "subject": "SYSINTARC",
+          "section": "BT404A",
+          "instructor": "SOLOMON",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "MOBSYSTEC",
+          "section": "BT602P",
+          "instructor": "MERIN",
+          "time": "10:00-1:00 AM"
+        },
+        {
+          "subject": "SOFT ENGR",
+          "section": "BS601P",
+          "instructor": "BALETE",
+          "time": "1:30-4:00 PM"
+        },
+        {
+          "subject": "GAME PROG",
+          "section": "BS601P",
+          "instructor": "MERIN",
+          "time": "4:00-7:00 PM"
+        }
+      ],
+      "wed": [
+        {
+          "subject": "SOFTDES",
+          "section": "BE401A",
+          "instructor": "MERIN",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "COM PROG 3",
+          "section": "ICT201",
+          "instructor": "BALDESTAMON",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "MOBILE APP 1",
+          "section": "ICT201",
+          "instructor": "BALDESTAMON",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "COMPROD",
+          "section": "BH201A",
+          "instructor": "SALDE",
+          "time": "1:30-4:30 PM"
+        }
+      ],
+      "thu": [
+        {
+          "subject": "SYSINTARC",
+          "section": "BT403A",
+          "instructor": "LUBIAN",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "MOBSYSTEC",
+          "section": "BT603P",
+          "instructor": "MERIN",
+          "time": "10:00-1:00 PM"
+        },
+        {
+          "subject": "NETECH 1",
+          "section": "BT403A",
+          "instructor": "ALBARAN",
+          "time": "1:00-4:00 PM"
+        }
+      ],
+      "fri": [
+        {
+          "subject": "SYSINTARC",
+          "section": "BT402A",
+          "instructor": "LUBIAN",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "INTEG PROG",
+          "section": "BT401A",
+          "instructor": "SOLOMON",
+          "time": "10:00-1:00 PM"
+        },
+        {
+          "subject": "COMPROD",
+          "section": "AB201A",
+          "instructor": "SALDE",
+          "time": "1:00-4:00 PM"
+        },
+        {
+          "subject": "ADV MOB",
+          "section": "BS601P",
+          "instructor": "MERIN",
+          "time": "4:00-7:00 PM"
+        }
+      ],
+      "sat": [
+        {
+          "subject": "SOFTDES",
+          "section": "BE401A",
+          "instructor": "MERIN",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "COM PROG 3",
+          "section": "ICT201",
+          "instructor": "BALDESTAMON",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "MOBILE APP 1",
+          "section": "ICT201",
+          "instructor": "BALDESTAMON",
+          "time": "11:30-1:00 PM"
+        }
+      ]
+    }
+  },
+  {
+    "floor": 3,
+    "roomID": "303",
+    "roomName": "Computer Lab D",
+    "schedules": {
+      "mon": [
+        {
+          "subject": "INFO MNGMT",
+          "section": "BT403A",
+          "instructor": "GALANG",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "INTEG PROG",
+          "section": "BT404A",
+          "instructor": "SUPERADA",
+          "time": "10:00-12:00 AM"
+        },
+        {
+          "subject": "WEBSYSTEC",
+          "section": "BT602P",
+          "instructor": "GALANG",
+          "time": "1:00-4:00 PM"
+        },
+        {
+          "subject": "PROG LANG",
+          "section": "BT602P",
+          "instructor": "SOLOMON",
+          "time": "4:00-7:00 PM"
+        }
+      ],
+      "tue": [
+        {
+          "subject": "INFO MNGMT",
+          "section": "BT402A",
+          "instructor": "GALANG",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "COMPROG2",
+          "section": "BT201A",
+          "instructor": "BALETE",
+          "time": "10:00-12:00 AM"
+        },
+        {
+          "subject": "INFO MNGMT",
+          "section": "BS401A",
+          "instructor": "GALANG",
+          "time": "1:00-4:00 PM"
+        },
+        {
+          "subject": "PROG LANG",
+          "section": "BT603P",
+          "instructor": "SOLOMON",
+          "time": "4:00-7:00 PM"
+        }
+      ],
+      "wed": [
+        {
+          "subject": "COMPROG2",
+          "section": "BS201A",
+          "instructor": "",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "SYSADMN",
+          "section": "BS201A",
+          "instructor": "ALBARAN",
+          "time": "10:00-1:00 PM"
+        },
+        {
+          "subject": "WEBSYSTEC",
+          "section": "BT603P",
+          "instructor": "GALANG",
+          "time": "1:00-4:00 PM"
+        }
+      ],
+      "thu": [
+        {
+          "subject": "INFO MNGMT",
+          "section": "BT401A",
+          "instructor": "GALANG",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "SYSINTARC",
+          "section": "BT401A",
+          "instructor": "LUBIAN",
+          "time": "10:00-12:00 AM"
+        },
+        {
+          "subject": "WEBSYSTEC",
+          "section": "BT601P",
+          "instructor": "GALANG",
+          "time": "1:00-4:00 PM"
+        },
+        {
+          "subject": "COMPROD",
+          "section": "BH204A",
+          "instructor": "",
+          "time": "4:00-7:00 PM"
+        }
+      ],
+      "fri": [
+        {
+          "subject": "INFO MNGMT",
+          "section": "BT404A",
+          "instructor": "GALANG",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "SYSADMN",
+          "section": "BT201A",
+          "instructor": "ALBARAN",
+          "time": "10:00-12:00 AM"
+        },
+        {
+          "subject": "NETECH 1",
+          "section": "BT404A",
+          "instructor": "LUBIAN",
+          "time": "1:00-4:00 PM"
+        }
+      ],
+      "sat": [
+        {
+          "subject": "QUANTI",
+          "section": "BT403A",
+          "instructor": "CATUBAY",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "COM PROD",
+          "section": "BR202A",
+          "instructor": "CATUBAY",
+          "time": "10:00-1:00 PM"
+        },
+        {
+          "subject": "COM PROD",
+          "section": "BR203A",
+          "instructor": "CATUBAY",
+          "time": "1:00-4:00 PM"
+        }
+      ]
+    }
+  },
+  {
+    "floor": 3,
+    "roomID": "304",
+    "roomName": "Computer Lab E",
+    "schedules": {
+      "mon": [
+        {
+          "subject": "COMPROG2",
+          "section": "BT202A",
+          "instructor": "BALETE",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "COMPROG2",
+          "section": "BT204A",
+          "instructor": "BALETE",
+          "time": "10:00-12:00 AM"
+        },
+
+        {
+          "subject": "INFO ASS SEC",
+          "section": "BT601P",
+          "instructor": "JALMASCO",
+          "time": "1:00-4:00 PM"
+        }
+      ],
+      "tue": [
+        {
+          "subject": "COMPROG2",
+          "section": "BT203A",
+          "instructor": "BALETE",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "SYSADMN",
+          "section": "BT203A",
+          "instructor": "ALBARAN",
+          "time": "10:00-12:00 PM"
+        },
+        {
+          "subject": "NETECH 1",
+          "section": "BT402A",
+          "instructor": "ALBARAN",
+          "time": "1:00-4:00 PM"
+        }
+      ],
+      "wed": [
+        {
+          "subject": "INV MNGT&C",
+          "section": "BA601P",
+          "instructor": "ONIA",
+          "time": "8:00-11:00 AM"
+        },
+        {
+          "subject": "ROBOTDYN",
+          "section": "BE601P",
+          "instructor": "",
+          "time": "11:00-1:00 PM"
+        },
+        {
+          "subject": "COMPROG2",
+          "section": "BT205A",
+          "instructor": "BALETE",
+          "time": "1:00-4:00 PM"
+        }
+      ],
+      "thu": [
+        {
+          "subject": "COMPROG2",
+          "section": "BT204A",
+          "instructor": "BALETE",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "SYSADMN",
+          "section": "BT204A",
+          "instructor": "ALBARAN",
+          "time": "10:00-12:00 PM"
+        },
+        {
+          "subject": "KOM",
+          "section": "CA201",
+          "instructor": "CUYA",
+          "time": "1:00-4:00 PM"
+        },
+        {
+          "subject": "HOMEROOM",
+          "section": "CA201",
+          "instructor": "",
+          "time": "4:00-5:00 PM"
+        }
+      ],
+      "fri": [
+        {
+          "subject": "COMPROG2",
+          "section": "BT201A",
+          "instructor": "BALETE",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "COMPROG2",
+          "section": "BT203A",
+          "instructor": "BALETE",
+          "time": "10:00-12:00 PM"
+        },
+        {
+          "subject": "COMPROD",
+          "section": "BR204A",
+          "instructor": "PAGUNTALAN",
+          "time": "1:00-4:00 PM"
+        }
+      ],
+      "sat": [
+        {
+          "subject": "COM PROD",
+          "section": "BH203A",
+          "instructor": "SALDE",
+          "time": "9:30-12:30 PM"
+        },
+        {
+          "subject": "COM PROD",
+          "section": "BH202A",
+          "instructor": "SALDE",
+          "time": "1:00-4:00 PM"
+        }
+      ]
+    }
+  },
+  {
+    "floor": 3,
+    "roomID": "305",
+    "roomName": "Computer Lab F",
+    "schedules": {
+      "mon": [
+        {
+          "subject": "ART APP",
+          "section": "BT201A",
+          "instructor": "CUARESMA",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "DISTRUC",
+          "section": "BT201A",
+          "instructor": "ASEOCHE",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "ETHICS",
+          "section": "BT201A",
+          "instructor": "CUARESMA",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "TR WRITING",
+          "section": "",
+          "instructor": "MACAPANAS",
+          "time": "11:30 AM-12:00 PM"
+        },
+        {
+          "subject": "STS",
+          "section": "BT204A",
+          "instructor": "ARANA",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "COMPROG2",
+          "section": "BS201A",
+          "instructor": "BALETE",
+          "time": "3:00-5:00 PM"
+        }
+      ],
+      "tue": [
+        {
+          "subject": "ART APP",
+          "section": "BT202A",
+          "instructor": "ARANA",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "DISTRUC",
+          "section": "BT202A",
+          "instructor": "ASEOCHE",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "ETHICS",
+          "section": "BR202A",
+          "instructor": "SANTOS",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "INFO ASS SEC",
+          "section": "BT603P",
+          "instructor": "JALMASCO",
+          "time": "1:00-3:00 PM"
+        },
+        {
+          "subject": "PUR COMM",
+          "section": "BT203A",
+          "instructor": "AMEN",
+          "time": "3:00-4:30 PM"
+        },
+        {
+          "subject": "INTERNAT'L CUISINE",
+          "section": "BH403A",
+          "instructor": "ESTENZO",
+          "time": "4:30-6:30 PM"
+        }
+      ],
+      "wed": [
+        {
+          "subject": "STRAMMA",
+          "section": "BR601P",
+          "instructor": "CREER",
+          "time": "11:30-2:30 AM"
+        },
+        {
+          "subject": "CAPDES 1",
+          "section": "BE601P",
+          "instructor": "ASEOCHE",
+          "time": "2:30-4:30 AM"
+        }
+      ],
+      "thu": [
+        {
+          "subject": "ART APP",
+          "section": "BT201A",
+          "instructor": "",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "DISTRUC",
+          "section": "BT201A",
+          "instructor": "ASEOCHE",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "ETHICS",
+          "section": "BT201A",
+          "instructor": "",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "TR WRITING",
+          "section": "601P",
+          "instructor": "MACAPANAS",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "STS",
+          "section": "BT204A",
+          "instructor": "",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "IT CAPSTONE",
+          "section": "BT603P",
+          "instructor": "ASEOCHE",
+          "time": "2:30-4:30 PM"
+        },
+        {
+          "subject": "INTERNAT'L CUISINE",
+          "section": "BH403A",
+          "instructor": "ESTENZO",
+          "time": "4:30-6:30 PM"
+        }
+      ],
+      "fri": [
+        {
+          "subject": "ART APP",
+          "section": "BT202A",
+          "instructor": "ARANA",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "DISTRUC",
+          "section": "BT202A",
+          "instructor": "ASEOCHE",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "ETHICS",
+          "section": "BT202A",
+          "instructor": "SANTOS",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "ETHICS",
+          "section": "BR401A",
+          "instructor": "SANTOS",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "NETECH 1",
+          "section": "BT401A",
+          "instructor": "ALBARAN",
+          "time": "1:00-3:00 PM"
+        },
+        {
+          "subject": "PUR COMM",
+          "section": "BT203A",
+          "instructor": "AMEN",
+          "time": "2:30-3:00 PM"
+        }
+      ],
+      "saturday": []
+    }
+  },
+
+  {
+    "floor": 4,
+    "roomID": "401",
+    "roomName": "A401",
+    "schedules": {
+      "mon": [
+        {
+          "subject": "QUANTI",
+          "section": "BT402A",
+          "instructor": "CATUBAY",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "INTRO TO BREAD AND PASTRY",
+          "section": "CA401",
+          "instructor": "ESTENZO",
+          "time": "10:00-1:00 PM"
+        },
+        {
+          "subject": "NSTP2",
+          "section": "BT203A",
+          "instructor": "ARANA",
+          "time": "1:30-2:30 AM"
+        },
+        {
+          "subject": "NSTP2",
+          "section": "BT201A",
+          "instructor": "GARCIA",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "INTERNAT'L CUISINE",
+          "section": "BH401A",
+          "instructor": "ESTENZO",
+          "time": "4:00-6:00 PM"
+        }
+      ],
+      "tue": [
+        {
+          "subject": "PR 1",
+          "section": "HUMS202",
+          "instructor": "CAANDOY",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "DIASS",
+          "section": "HUMS202",
+          "instructor": "SARTE",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "CRE_WRITE",
+          "section": "HUMS202",
+          "instructor": "CARNIYAN",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "READ&WRITE",
+          "section": "HUMS202",
+          "instructor": "CARNIYAN",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "NSTP2",
+          "section": "BT205A",
+          "instructor": "RIVERA",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "HOMEROOM",
+          "section": "STEM201",
+          "instructor": "",
+          "time": "2:30-3:30 PM"
+        }
+      ],
+      "wed": [
+        {
+          "subject": "R_AND_W",
+          "section": "CA201",
+          "instructor": "BALBALOSA",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "STAT&PROB",
+          "section": "CA201",
+          "instructor": "MALAZARTE",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "R_AND_W",
+          "section": "ICT201",
+          "instructor": "CABILES",
+          "time": "11:30-2:30 PM"
+        },
+        {
+          "subject": "HOMEROOM",
+          "section": "ICT202",
+          "instructor": "",
+          "time": "2:30-3:30 PM"
+        },
+        {
+          "subject": "SOFT ENGR",
+          "section": "BS601P",
+          "instructor": "BALETE",
+          "time": "4:00-6:00 PM"
+        }
+      ],
+      "thu": [
+        {
+          "subject": "HOMEROOM",
+          "section": "ABM401",
+          "instructor": "",
+          "time": "1:00-12:00 PM"
+        },
+        {
+          "subject": "NSTP2",
+          "section": "BT202A",
+          "instructor": "",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "NSTP2",
+          "section": "BT201A",
+          "instructor": "",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "PROG LANG",
+          "section": "BT601P",
+          "instructor": "SOLOMON",
+          "time": "4:00-6:00 PM"
+        }
+      ],
+      "fri": [
+        {
+          "subject": "PR 1",
+          "section": "HUMS202",
+          "instructor": "CAANDOY",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "DIASS",
+          "section": "HUMS202",
+          "instructor": "SARTE",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "CRE_WRITE",
+          "section": "HUMS202",
+          "instructor": "CARNIYAN",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "READ&WRITE",
+          "section": "HUMS202",
+          "instructor": "CARNIYAN",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "NSTP2",
+          "section": "BT205A",
+          "instructor": "RIVERA",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "TECHNOP",
+          "section": "BT403A",
+          "instructor": "PAZ",
+          "time": "2:30-5:30 PM"
+        }
+      ],
+      "sat": [
+        {
+          "subject": "R_AND_W",
+          "section": "CA201",
+          "instructor": "BALBALOSA",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "STAT&PROB",
+          "section": "CA201",
+          "instructor": "MALAZARTE",
+          "time": "8:30-10:00 AM"
+        }
+      ]
+    }
+  },
+  {
+    "floor": 4,
+    "roomID": "402",
+    "roomName": "A402",
+    "schedules": {
+      "mon": [
+        {
+          "subject": "MODERN G",
+          "section": "BH603P",
+          "instructor": "NIETO",
+          "time": "9:00-10:00 AM"
+        },
+        {
+          "subject": "OJT",
+          "section": "BT801P",
+          "instructor": "LUBIAN",
+          "time": "10:00-12:00 PM"
+        },
+        {
+          "subject": "TECHNOP",
+          "section": "BT401A",
+          "instructor": "CREER",
+          "time": "12:30-2:00 PM"
+        },
+        {
+          "subject": "GREATBOOKS",
+          "section": "BT603P",
+          "instructor": "LAZARO",
+          "time": "2:00-5:00 PM"
+        }
+      ],
+      "tue": [
+        {
+          "subject": "GCULT&TOUR",
+          "section": "BR201A",
+          "instructor": "MACAPANAS",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "WORK IM",
+          "section": "HUMSS401",
+          "instructor": "GARCIA",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "KOM",
+          "section": "ICT202",
+          "instructor": "VICTORIA",
+          "time": "10:00-11:30 PM"
+        },
+        {
+          "subject": "STAT&PROB",
+          "section": "ICT202",
+          "instructor": "MALAZARTE",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "NSTP2",
+          "section": "BT202A",
+          "instructor": "WONG",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "STS",
+          "section": "BE201A",
+          "instructor": "REY",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "NSTP2",
+          "section": "BE204A",
+          "instructor": "RIVERA",
+          "time": "4:00-5:30 PM"
+        }
+      ],
+      "wed": [
+        {
+          "subject": "FUN_FS OP",
+          "section": "BH402A",
+          "instructor": "SALAMANCA",
+          "time": "8:00-10:00 AM"
+        },
+        {
+          "subject": "CS PRACTICUM",
+          "section": "BS801P",
+          "instructor": "LUBIAN",
+          "time": "10:00-12:00 PM"
+        },
+        {
+          "subject": "SYSINTARC",
+          "section": "BT403A",
+          "instructor": "LUBIAN",
+          "time": "12:00-2:00 PM"
+        },
+        {
+          "subject": "FUNMOBPROG",
+          "section": "BS401A",
+          "instructor": "MERIN",
+          "time": "2:00-4:00 PM"
+        },
+        {
+          "subject": "INFO MNGMT",
+          "section": "BS401A",
+          "instructor": "GALANG",
+          "time": "4:00-6:00 PM"
+        }
+      ],
+      "thu": [
+        {
+          "subject": "HOMEROOM",
+          "section": "HUMS201",
+          "instructor": "",
+          "time": "11:30-12:30 PM"
+        },
+        {
+          "subject": "TECHNOP",
+          "section": "BT401A",
+          "instructor": "CREER",
+          "time": "12:30-2:00 PM"
+        }
+      ],
+      "fri": [
+        {
+          "subject": "GCULT&TOUR",
+          "section": "BR201A",
+          "instructor": "MACAPANAS",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "WORK IM",
+          "section": "HUMS401",
+          "instructor": "GARCIA",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "KOM",
+          "section": "ICT202",
+          "instructor": "VICTORIA",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "STAT&PROB",
+          "section": "ICT202",
+          "instructor": "MALAZARTE",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "NSTP2",
+          "section": "BT202A",
+          "instructor": "WONG",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "STS",
+          "section": "BE201A",
+          "instructor": "REY",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "NSTP2",
+          "section": "BT204A",
+          "instructor": "RIVERA",
+          "time": "4:00-4:30 PM"
+        }
+      ],
+      "sat": [
+        {
+          "subject": "PHIL POP",
+          "section": "BT402A",
+          "instructor": "CUARESMA",
+          "time": "7:00-10:00 AM"
+        },
+        {
+          "subject": "TECHNOP",
+          "section": "BT402A",
+          "instructor": "VIROS",
+          "time": "10:00-1:00 PM"
+        }
+      ]
+    }
+  },
+  {
+    "floor": 4,
+    "roomID": "403",
+    "roomName": "A403",
+    "schedules": {
+      "mon": [
+        {
+          "subject": "COLLEGE CAL",
+          "section": "BS201A",
+          "instructor": "RIVERA",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "NSTP2",
+          "section": "BS201A",
+          "instructor": "RIVERA",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "PUR COMM",
+          "section": "BS201A",
+          "instructor": "MENDOZA",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "TOUR POLICY",
+          "section": "BR401A",
+          "instructor": "ZAMORA",
+          "time": "11:30 AM-1:00 PM"
+        },
+        {
+          "subject": "PUR COMM",
+          "section": "BE201A",
+          "instructor": "PAYUMO",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "BUSS LAW",
+          "section": "BA401A",
+          "instructor": "PAYUMO",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "ENTREP_TOUR",
+          "section": "BH603P",
+          "instructor": "DABLO",
+          "time": "4:00-5:30 PM"
+        },
+        {
+          "subject": "LEGAL_TOUR",
+          "section": "BH603P",
+          "instructor": "ZAMORA",
+          "time": "5:30-7:00 PM"
+        }
+      ],
+      "tue": [
+        {
+          "subject": "ENTREP",
+          "section": "CA/TO401",
+          "instructor": "PAZ",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "UCSP",
+          "section": "CA201",
+          "instructor": "ACHAY",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "ENTREP",
+          "section": "ABM401",
+          "instructor": "PAZ",
+          "time": "11:30 AM - 1:00 PM"
+        },
+        {
+          "subject": "GREATBOOKS",
+          "section": "BT601P",
+          "instructor": "LAZARO",
+          "time": "1:00-4:00 PM"
+        }
+      ],
+      "wed": [
+        {
+          "subject": "INFOMNGT",
+          "section": "BT401A",
+          "instructor": "GALANG",
+          "time": "7:00-9:00 AM"
+        },
+        {
+          "subject": "INFOMNGT",
+          "section": "BT403A",
+          "instructor": "GALANG",
+          "time": "9:00-11:00 AM"
+        },
+        {
+          "subject": "TECHNOP",
+          "section": "BE401A",
+          "instructor": "PAZ",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "ETHICS",
+          "section": "BE401A",
+          "instructor": "",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "GREATBOOKS",
+          "section": "BE401A",
+          "instructor": "",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "MIS",
+          "section": "BS603P",
+          "instructor": "JALMASCO",
+          "time": "4:00-7:00 PM"
+        }
+      ],
+      "thu": [
+        {
+          "subject": "COLLEGE CAL",
+          "section": "BS201A",
+          "instructor": "",
+          "time": "7:00-8:30 AM"
+        },
+        {
+          "subject": "NSTP2",
+          "section": "BS201A",
+          "instructor": "",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "PUR COMM",
+          "section": "BS201A",
+          "instructor": "",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "TOUR POLICY",
+          "section": "BR401A",
+          "instructor": "ZAMORA",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "PUR COMM",
+          "section": "BE201A",
+          "instructor": "PAYUMO",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "BUSS LAW",
+          "section": "BA401A",
+          "instructor": "PAYUMO",
+          "time": "2:30-4:00 PM"
+        },
+        {
+          "subject": "ENTREP",
+          "section": "BH603P",
+          "instructor": "DABLO",
+          "time": "4:00-5:30 PM"
+        },
+        {
+          "subject": "LEGAL_TOUR",
+          "section": "BH603P",
+          "instructor": "ZAMORA",
+          "time": "5:30-7:00 PM"
+        }
+      ],
+      "fri": [
+        {
+          "subject": "ENTREP",
+          "section": "CA/TO401",
+          "instructor": "PAZ",
+          "time": "8:30-10:00 AM"
+        },
+        {
+          "subject": "UCSP",
+          "section": "CA201",
+          "instructor": "ACHAY",
+          "time": "10:00-11:30 AM"
+        },
+        {
+          "subject": "ENTREP",
+          "section": "ABM401",
+          "instructor": "PAZ",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "MICRO",
+          "section": "BE601P",
+          "instructor": "BONGCO",
+          "time": "1:00-4:00 PM"
+        }
+      ],
+      "sat": [
+        {
+          "subject": "TECHNOP",
+          "section": "BT401A",
+          "instructor": "PAZ",
+          "time": "11:30-1:00 PM"
+        },
+        {
+          "subject": "ETHICS",
+          "section": "BE401A",
+          "instructor": "SANTOS",
+          "time": "1:00-2:30 PM"
+        },
+        {
+          "subject": "GREATBOOKS",
+          "section": "BE401A",
+          "instructor": "CARNIYAN",
+          "time": "2:30-4:00 PM"
+        }
+      ]
+    }
+  },
+  {
+    "floor": 4,
+    "roomID": "404",
+    "roomName": "Electronics Lab (A404)",
+    "schedules": {
+      "mon": [],
+      "tue": [
+        {
+          "subject": "MICRO LAB",
+          "section": "BE601P",
+          "instructor": "BONGCO",
+          "time": "1:00-4:00 PM"
+        }
+      ],
+      "wednesday": [],
+      "thu": [
+        {
+          "subject": "FUNDELECT",
+          "section": "BE401A",
+          "instructor": "BONGCO",
+          "time": "8:00-11:00 AM"
+        },
+        {
+          "subject": "ROBOTDYN",
+          "section": "BE601P",
+          "instructor": "PAGUNTALAN",
+          "time": "1:00-4:00 PM"
+        }
+      ],
+      "fri": [
+        {
+          "subject": "DISIPRO",
+          "section": "BE601P",
+          "instructor": "PAGUNTALAN",
+          "time": "7:00-10:00 AM"
+        }
+      ],
+      "sat": []
+    }
+  },
+  {
+    "floor": "4",
+    "roomID": "405",
+    "roomName": "Physics Laboratory (A405)",
+    "schedules": {
+      "mon": [
+        {
+          "subject": "PHYSICS",
+          "section": "BE201A",
+          "instructor": "PAGUNTALAN",
+          "time": "7:00-10:00 AM"
+        }
+      ],
+      "tue": [
+        {
+          "subject": "HOMEROOM",
+          "section": "STEM402",
+          "instructor": "",
+          "time": "10:00-11:00 AM"
+        },
+        {
+          "subject": "HOMEROOM",
+          "section": "STEM204",
+          "instructor": "",
+          "time": "11:30-12:30 PM"
+        },
+        {
+          "subject": "EARTH SCI",
+          "section": "HUMS202",
+          "instructor": "ARCILLA",
+          "time": "1:00-2:30 PM"
+        }
+      ],
+      "wed": [],
+      "thu": [
+        {
+          "subject": "PHYSICS",
+          "section": "BE201A",
+          "instructor": "PAGUNTALAN",
+          "time": "7:00-10:00 AM"
+        }
+      ],
+      "fri": [
+        {
+          "subject": "EARTH SCI",
+          "section": "HUMS202",
+          "instructor": "ARCILLA",
+          "time": "1:00-2:30 PM"
+        }
+      ],
+      "saturday": []
+    }
+  },
+  {
+    "floor": 4,
+    "roomID": "406",
+    "roomName": "Chemistry Lab (A406)",
+    "schedules": {
+      "mon": [
+        {
+          "subject": "WORK IM",
+          "section": "STEM403",
+          "instructor": "ARCILLA",
+          "time": "7:00-10:00 AM"
+        }
+      ],
+      "tue": [
+        {
+          "subject": "WORK IM",
+          "section": "CA/TO401",
+          "instructor": "GARCIA",
+          "time": "11:30-1:00 PM"
+        }
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        {
+          "subject": "WORK IM",
+          "section": "CA/TO401",
+          "instructor": "GARCIA",
+          "time": "11:30-1:00 PM"
+        }
+      ],
+      "sat": []
+    }
+  }
+]
